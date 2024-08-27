@@ -1,0 +1,10 @@
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore the bin directory
+bin/
+
+# Ignore other common files
+*.class
+*.log
+*.tmp
